@@ -1,0 +1,4 @@
+is it late?|yesis it early?|yesis it late|yesis it late|yes
+whats the capital of ireland|dublin
+what's your name?|
+is it cold?|yes, it is
